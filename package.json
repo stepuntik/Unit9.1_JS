@@ -9,7 +9,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://stepuntik.github.io/js-group-11-12",
+  "homepage": "https://stepuntik.github.io/Unit9.1_JS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepuntik/Unit9.1_JS"
+  },
   "author": "Stepan Lavrenchuk <stepuntik@gmail.com>",
   "license": "ISC",
   "devDependencies": {
